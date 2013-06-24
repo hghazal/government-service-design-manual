@@ -27,31 +27,23 @@ The basics of any testing approach still apply in the Agile world, but the aim o
 It is important to recognise why you are testing in the first place:
 
 * to build the best quality system you can
-* to make sure it does what the customer requires
+* to make sure it does what the user requires
 * that it’s done at a cost that everyone agrees can be afforded (cost being money, business change, risk etc.)
 
 Too often the aim of testing is to validate what has been produced and nothing else. Your testing should be more about the following 7 concepts:
 
-* building quality in
-* everyone is responsible for quality
+* building quality in (it's everyone's responsibility)
 * fast feedback
 * tests are an asset of the product
 * faster delivery into production
 * clear and constant view of testing
 * optimise value
 
+## Building quality in (it's everyone's responsibility)
 
-## Building quality in
+Use the vast majority of your efforts building quality in at the start, and test the quality throughout the project - not at the end when it’s too late. Each story's [acceptance criteria](/service-manual/agile/writing-user-stories.html#acceptance-criteria-in-user-stories) should set expectations for quality and be tested.
 
-Use the vast majority of your efforts building quality in at the start, and test the quality throughout the project - not at the end when it’s too late.
-
-Define acceptance criteria standards for your user stories. You can either do this when you first write your user stories or later on in the form of acceptance tests when you start development work. Testing should confirm what you already know and understand to be true, so there should be no surprises in the latter stages.
-
-## Everyone is responsible for quality
-
-Service quality isn’t just a testing issue. The quality of a system is defined by the people who create it. 
-
-Your team should be able to see a problem in the quality of your system. Every person on the project should be taking action to increase quality and fix issues.
+[Read the guidance about quality](/service-manual/agile/quality.html)
 
 ## Fast feedback
 
